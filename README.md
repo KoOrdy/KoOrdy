@@ -149,6 +149,15 @@ A job board platform with authentication, CRUD operations, and administrative co
 
 ## 💼 Experience
 
+### Backend Developer — UDORM (University Dormitory Management System)
+
+**Live:** https://modon.capu.edu.eg/
+
+- Backend development with **Node.js, NestJS, TypeScript, Prisma, and PostgreSQL**
+- Built and maintained REST APIs for student and dormitory management workflows
+- Integrated **Face ID Attendance** via Python/FastAPI services
+- Deployed and operated services using **Docker, Nginx, and microservices**
+
 ### Backend Developer — Academyium Learning Platform
 
 **Jul 2025 – Aug 2025 · May 2026 – Jun 2026**
@@ -245,14 +254,6 @@ Learning             ███████████████████�
 <br/><br/>
 
 ⭐ If you find my projects interesting, feel free to star them!
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/KoOrdy/KoOrdy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
