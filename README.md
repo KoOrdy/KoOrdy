@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,100:2b6cb0&height=220&section=header&text=Yehia%20Yasser%20ElKordy&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Backend%20Developer%20%7C%20Node.js%20%26%20NestJS&descAlignY=55&descSize=18" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=339933&center=true&vCenter=true&width=700&lines=Backend+Developer+%F0%9F%9A%80;Node.js+%7C+NestJS+Developer;Building+Scalable+REST+APIs+%E2%9A%A1;Real-Time+Systems+Enthusiast+%F0%9F%94%8C;Always+Learning+%26+Building+%F0%9F%A7%A0" alt="Typing SVG" />
 
@@ -226,4 +226,4 @@ Learning           ████████████████████ 
 ⭐ If you find my projects interesting, feel free to star them!
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b6cb0,100:339933&height=120&section=footer" width="100%"/>
+<img src="footer.svg" width="100%"/>

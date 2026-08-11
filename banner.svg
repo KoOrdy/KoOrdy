@@ -1,0 +1,48 @@
+<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1117">
+        <animate attributeName="stop-color" values="#0D1117;#0f2e1f;#0D1117" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#0D1117">
+        <animate attributeName="stop-color" values="#0D1117;#12233a;#0D1117" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#339933"/>
+      <stop offset="100%" stop-color="#2b6cb0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="200" fill="url(#bgGrad)"/>
+
+  <path fill="url(#waveGrad)" opacity="0.85">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,160 C150,190 350,130 500,160 C650,190 850,130 1000,160 L1000,200 L0,200 Z;
+        M0,150 C150,120 350,180 500,150 C650,120 850,180 1000,150 L1000,200 L0,200 Z;
+        M0,160 C150,190 350,130 500,160 C650,190 850,130 1000,160 L1000,200 L0,200 Z
+      "/>
+  </path>
+
+  <path fill="#ffffff" opacity="0.08">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,175 C200,150 400,200 600,175 C800,150 900,190 1000,175 L1000,200 L0,200 Z;
+        M0,180 C200,200 400,150 600,180 C800,200 900,150 1000,180 L1000,200 L0,200 Z;
+        M0,175 C200,150 400,200 600,175 C800,150 900,190 1000,175 L1000,200 L0,200 Z
+      "/>
+  </path>
+
+  <text x="500" y="90" font-family="Fira Code, monospace" font-size="42" font-weight="700"
+        fill="#ffffff" text-anchor="middle">
+    Yehia Yasser ElKordy
+    <animate attributeName="opacity" values="0;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <text x="500" y="130" font-family="Fira Code, monospace" font-size="18"
+        fill="#339933" text-anchor="middle">
+    Backend Developer · Node.js &amp; NestJS
+    <animate attributeName="opacity" values="0;0;1" dur="2s" fill="freeze"/>
+  </text>
+</svg>

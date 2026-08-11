@@ -1,0 +1,17 @@
+<svg width="100%" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="waveGradFooter" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2b6cb0"/>
+      <stop offset="100%" stop-color="#339933"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="100" fill="#0D1117"/>
+  <path fill="url(#waveGradFooter)" opacity="0.85">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+        M0,40 C150,10 350,70 500,40 C650,10 850,70 1000,40 L1000,0 L0,0 Z;
+        M0,50 C150,80 350,20 500,50 C650,80 850,20 1000,50 L1000,0 L0,0 Z;
+        M0,40 C150,10 350,70 500,40 C650,10 850,70 1000,40 L1000,0 L0,0 Z
+      "/>
+  </path>
+</svg>
