@@ -1,76 +1,230 @@
-Hi 👋, I'm Yehia Yasser ElKordy 🧑‍💻
-### Backend Developer | Node.js & NestJS Specialist
+# 👋 Hi, I'm Yehia Yasser ElKordy
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=339933&center=true&vCenter=true&width=700&lines=Backend+Developer;Node.js+%7C+NestJS+Developer;Building+Scalable+REST+APIs;Real-Time+Systems+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+</p>
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="https://github.com/KoOrdy">
+    <img src="https://komarev.com/ghpvc/?username=KoOrdy&label=Profile%20Views&color=339933&style=flat" />
+  </a>
+  <a href="https://github.com/KoOrdy?tab=followers">
+    <img src="https://img.shields.io/github/followers/KoOrdy?label=Followers&style=flat&color=339933" />
+  </a>
+</p>
 
-* 🎓 Computer Science graduate (Software Engineering track) — Helwan University, 2026
-* 💻 Backend Developer specialized in **Node.js** and **NestJS**, building scalable RESTful APIs
-* 🔐 Skilled in secure system design — JWT authentication, role-based access control, real-time communication
-* 🚀 Passionate about real-time systems and clean backend architecture
-* 💬 Ask me about `Node.js`, `NestJS`, `.NET`, or `Laravel`
+---
 
-## 🎯 Objective
+## 🧑‍💻 About Me
 
-Backend Developer with strong expertise in Node.js and NestJS, building scalable RESTful APIs and robust backend architectures. Skilled in designing secure systems with JWT authentication, role-based access control, and real-time communication. Committed to delivering high-quality, production-ready solutions.
+🎓 **Computer Science Graduate — Software Engineering Track**
+🏫 **Helwan University — 2026**
+💻 **Backend Developer focused on Node.js & NestJS**
 
-## 🚀 Currently Learning
+I enjoy designing and building backend systems that are **scalable, secure, maintainable, and production-ready**.
 
-* 🧪 Unit Testing & Test-Driven Development (TDD)
-* ☁️ Deploying Node.js / NestJS APIs to the cloud
-* 🤖 AI integration with backend systems
+My main focus is backend development with **Node.js and NestJS**, especially:
+
+* 🚀 Scalable RESTful APIs
+* 🏗️ Clean & modular backend architecture
+* 🔐 Authentication & Authorization
+* ⚡ Real-time communication
+* 🗄️ Database design & optimization
+* 🚦 API validation & middleware
+* 🧠 Async programming & business logic
+* ⚡ Caching with Redis
+
+My strongest backend stack is:
+
+```text
+Node.js → NestJS → PostgreSQL / MySQL
+              ↓
+       RESTful APIs
+              ↓
+ Authentication / Authorization
+              ↓
+       Redis / WebSockets
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,php,laravel" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+</p>
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,java" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,swagger,vscode" />
+</p>
+
+**Also experienced with:**
+`JWT` · `REST APIs` · `WebSockets` · `SignalR` · `SMTP` · `MVC` · `Middleware` · `Async/Await` · `Role-Based Access Control`
+
+---
+
+## 🔥 Featured Projects
+
+### 🍽️ Restaurant Management System
+
+**.NET 8 Web API · SQL Server · SignalR · JWT · FastAPI**
+
+A scalable multi-role backend system supporting **Admin, Manager, and Customer** roles.
+
+* 🔐 JWT authentication & role-based authorization
+* ⚡ Real-time updates using SignalR
+* 📧 SMTP email verification
+* 🚀 100+ API endpoints
+* 🏗️ Structured backend architecture
+
+🔗 **[View Repository](https://github.com/KoOrdy/Restaurant-Management-System)**
+
+---
+
+### 🎬 Real-Time Cinema Booking System
+
+**Node.js · Express · MySQL · WebSockets · React**
+
+A real-time cinema booking platform focused on live seat availability and asynchronous backend operations.
+
+* ⚡ WebSocket-based live seat updates
+* 🎟️ Real-time booking flow
+* 🔌 RESTful APIs
+* 🛡️ Middleware validation
+* 🔄 Async business logic
+
+🔗 **[View Repository](https://github.com/KoOrdy/Real-Time-Cinema)**
+
+---
+
+### 📢 Job Announcement Platform
+
+**Laravel · MySQL · Bootstrap**
+
+A job board platform with authentication, CRUD operations, and administrative controls.
+
+* 🔐 User authentication
+* 👨‍💼 Admin controls
+* 📝 CRUD operations
+* 🗄️ MySQL database
+* 🎨 Laravel Blade UI
+
+🔗 **[View Repository](https://github.com/KoOrdy/final_php)**
+
+---
 
 ## 💼 Experience
 
-**Backend Developer – Academyium Learning Platform**
-🗓️ Jul 2025 – Aug 2025, May 2026 – Jun 2026
+### Backend Developer — Academyium Learning Platform
 
-* Engineered an educational platform (PHP & MySQL) managing courses, mentorship sessions, and daily agendas
-* Designed the relational database schema and built an admin dashboard with secure session-based authentication
-* Implemented backend features including authentication, data management, and API logic — Live: [academyium.com](https://academyium.com)
+**Jul 2025 – Aug 2025 · May 2026 – Jun 2026**
 
-## 🔥 Projects
+Worked on an educational platform built with **PHP & MySQL**.
 
-**🍽️ [Restaurant Management System](https://github.com/KoOrdy/Restaurant-Management-System)**
-* Scalable .NET 8 Web API for a multi-role system (Admin, Manager, Customer) with 100+ endpoints
-* JWT authentication, role-based access control, real-time updates via SignalR
-* Secured with JWT, SMTP email verification, and role-based access
-* Tech: .NET 8, SQL Server, SignalR, FastAPI, JWT
+* Designed relational database schemas
+* Built backend features and API logic
+* Implemented authentication and data management
+* Worked on courses, mentorship sessions, and daily agendas
+* Developed secure session-based authentication
 
-**🎬 [Real-Time Cinema Booking System](https://github.com/KoOrdy/Real-Time-Cinema)**
-* Real-time booking system with WebSocket-based live seat updates
-* RESTful APIs, middleware validation, and async business logic
-* React frontend, Node.js/Express/MySQL backend
-* Tech: Node.js, Express, MySQL, React
+🌐 **[Visit Academyium](https://academyium.com/)**
 
-**📢 [Job Announcement Platform](https://github.com/KoOrdy/final_php)**
-* Job board with CRUD operations, user authentication, and admin controls
-* Laravel Blade UI with responsive Bootstrap design
-* Tech: Laravel, MySQL
+---
 
-## 📜 Certifications
+## 🧠 What I Care About
 
-* ✅ PHP Laravel Track – Mindset Training (2024) – 90 hours
-* ✅ HCIA-AI V3.5 – Huawei Certified ICT Associate (AI) – NTI (2025) – 80 hours
+```text
+Scalability       ████████████████████
+Clean Architecture ███████████████████░
+Security          ████████████████████
+Performance       ██████████████████░░
+Real-Time Systems ███████████████████░
+Learning          ████████████████████
+```
 
-## ⚙️ Skills
+I don't just want an API that works.
 
-* **Backend:** Node.js, Express.js, NestJS, ASP.NET Web API, JWT, Redis, SignalR, SMTP
-* **Languages:** JavaScript, TypeScript, C#, Python, Java, SQL, PHP
-* **Databases:** SQL Server, PostgreSQL, MongoDB, MySQL
-* **Node Ecosystem:** REST APIs, MVC, Middleware, Async/Await, WebSockets, NPM
-* **Tools:** Git, GitHub, Postman, Swagger, VS Code
-* **Core Concepts:** Authentication, Authorization, Real-Time Systems, Caching
-* **Soft Skills:** Communication, Problem-Solving, Teamwork, Adaptability, Time Management
+I want backend systems that are:
+
+**Reliable → Secure → Maintainable → Scalable**
+
+---
+
+## 🌱 Currently Learning
+
+```text
+🧪 Unit Testing & TDD
+☁️ Cloud Deployment
+🤖 AI Integration with Backend Systems
+🏗️ Advanced Backend Architecture
+```
+
+---
 
 ## 📊 GitHub Stats
 
-![Yehia's GitHub stats](https://github-readme-stats.vercel.app/api?username=KoOrdy&show_icons=true&theme=radical)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KoOrdy&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoOrdy&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-## 📫 Contact Me
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KoOrdy&theme=github-dark-blue&hide_border=true" />
+</p>
 
-* 📧 yheiaelkordy@gmail.com
-* 📱 +20 110 008 1834
-* 🔗 [LinkedIn](https://linkedin.com/in/yehia-elkordy)
-* 💻 [GitHub](https://github.com/KoOrdy)
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KoOrdy/KoOrdy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</p>
+
+---
+
+## 📜 Certifications
+
+* ✅ **PHP Laravel Track** — Mindset Training · 90 Hours · 2024
+* ✅ **HCIA-AI V3.5** — Huawei Certified ICT Associate (AI), NTI · 80 Hours · 2025
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:yheiaelkordy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yheiaelkordy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yehia-elkordy">
+    <img src="https://img.shields.io/badge/LinkedIn-Yehia%20ElKordy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/KoOrdy">
+    <img src="https://img.shields.io/badge/GitHub-KoOrdy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Build it. Break it. Understand it. Make it better.”</i>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, feel free to star them!
+</p>
