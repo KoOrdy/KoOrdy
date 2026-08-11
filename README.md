@@ -248,4 +248,12 @@ Learning             ███████████████████�
 
 </div>
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/KoOrdy/KoOrdy/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</div>
+
 <img src="footer.svg" width="100%"/>
